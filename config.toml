@@ -31,6 +31,11 @@ theme = "raditian-free-hugo-theme"
   weight = 2
 
   [[menu.header]]
+  name = "Docs"
+  URL = "/docs"
+  weight = 2
+
+  [[menu.header]]
   name = "Team"
   URL = "/team"
   weight = 3
@@ -54,7 +59,6 @@ theme = "raditian-free-hugo-theme"
   name = "Portal"
   URL = "/projects"
   weight = 4
-
 
 [params]
 

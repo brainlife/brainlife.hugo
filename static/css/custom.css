@@ -30,3 +30,7 @@ section.section-collaborator h5,
 section.section-collaborator p.lead {
     color: white;
 }
+
+.header .navbar-nav .nav-item:last-child .nav-link {
+    border: 2px solid black;
+}
