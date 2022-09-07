@@ -2,6 +2,9 @@ baseURL = "https://brainlife.io/"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
+#sitemap comes from warehouse
+disableKinds = ["sitemap"]
+
 # Plugins
 [params.plugins]
 
