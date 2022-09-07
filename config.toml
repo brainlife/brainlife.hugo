@@ -67,7 +67,8 @@ disableKinds = ["sitemap"]
 
   sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
 
-  googleTagManagerID = "GTM-TM7KT8B" # Google Analytics works with Google Tag Manager
+  #disabled for GDPR
+  #googleTagManagerID = "GTM-TM7KT8B" 
 
   [params.logo]
     text1 = "brainlife"
