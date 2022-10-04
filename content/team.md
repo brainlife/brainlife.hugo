@@ -18,13 +18,13 @@ activeMembers:
     avatar: "img/team/soichi.jpg"
 
   - name: "Anibal Solon Heinsfeld"
-    title: "Graduate Research Assistant"
+    title: "Technical Lead"
     bio: "Anibal is graduate research assistant working on machine learning methods applied to neuroscience data. He joined the University of Texas at Austin in 2019 and the brainlife.io team in 2021. Anibal is currently developing methods to improve the accuracy with which we can map brain networks. Anibal has contributed to several open-source projects, such as C-PAC (https://fcp-indi.github.io/), OpenNeuro (https://openneuro.org/), and BrainBox (https://brainbox.pasteur.fr/)."
     url: "https://scholar.google.com/citations?user=gQdfws4AAAAJ&hl=en&oi=ao"
     avatar: "img/team/anibalsolon.jpg"
 
   - name: "Bradley Caron"
-    title: "Postdoctoral Fellow"
+    title: "Data Scientist"
     bio: "Brad holds a Ph.D. in Vision Science and Neuroscience from Indiana University. His research focusses on the integration of neuroimaging data modalities and machine learning to understand concussion and human vision. Brad has used Brainlife to publish multiple datasets and has developed several data preprocessing Apps. Brad has also written tutorials that introduce how to use Brainlife and core Python Notebooks templates that demonstrate how to apply statistical methods data preprocessed on brainlife. Brad is passionate about science, sports, and civil rights."
     url: "https://scholar.google.com/citations?user=fU9K6GgAAAAJ&hl=en"
     avatar: "img/team/brad.png"
@@ -42,7 +42,7 @@ activeMembers:
     avatar: "img/team/guio_meglab.png"
 
   - name: "Sandra Hanekamp"
-    title: "Outreach and Communication Manager"
+    title: "Senior Researcher"
     bio: "Sandra is the Outreach and Communication Manager for brainlife.io. She holds a B.A. in Neurolinguistics, an M.A. in Clinical Neuropsychology, and a Ph.D. in Cognitive and Perceptual Neuroscience from the University of Groningen. Before joining the brainlife.io team Sandra worked as Postdoctoral fellow at Harvard Medical School. Sandra likes spending time outdoors, water sports and glamour."
     url: "https://scholar.google.com/citations?user=HpFvfUsAAAAJ&hl=en&oi=ao"
     avatar: "img/team/sandra.jpg"
