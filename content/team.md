@@ -49,7 +49,7 @@ activeMembers:
 
   - name: "Sandra Hanekamp"
     title: "Senior Researcher"
-    bio: "Sandra is the Outreach and Communication Manager for brainlife.io. She holds a B.A. in Neurolinguistics, an M.A. in Clinical Neuropsychology, and a Ph.D. in Cognitive and Perceptual Neuroscience from the University of Groningen. Before joining the brainlife.io team Sandra worked as Postdoctoral fellow at Harvard Medical School. Sandra likes spending time outdoors, water sports and glamour."
+    bio: "Sandra is the Outreach and Communication Manager for brainlife.io. She holds a B.A. in Neurolinguistics, an M.A. in Clinical Neuropsychology, and a Ph.D. in Cognitive and Perceptual Neuroscience from the University of Groningen. Before joining the brainlife.io team Sandra worked as Postdoctoral fellow at Harvard Medical School. Sandra likes spending time outdoors, water sports and biking."
     url: "https://scholar.google.com/citations?user=HpFvfUsAAAAJ&hl=en&oi=ao"
     avatar: "img/team/sandra.jpg"
 
