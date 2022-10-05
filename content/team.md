@@ -11,7 +11,13 @@ activeMembers:
     url: "https://liberalarts.utexas.edu/psychology/faculty/fp4834"
     avatar: "img/team/franco.jpg"
 
-  - name: "Soichi Hayashi"
+  - name: "Kimberly Ray"
+    title: "Engagement and Communication Manager"
+    bio: "Kimberly is a Research Assistant Professor of Psychology at the University of Texas, Austin. Kim holds a PhD in Human NeuroImaging from the University of Texas Health Science Center in San Antonio. She is interested in using neuroimaging to understand the functional organization of human brain networks in healthy and diseased populations. Prior to joining the brainlife.io team, Kim completed postdocs at UC Davis and UT Austin examining functional deficits associated with mental health."
+    url: "https://scholar.google.com/citations?user=Qt6OuAkAAAAJ&hl=en"
+    avatar: "img/team/KimRay.jpg"
+    
+    - name: "Soichi Hayashi"
     title: "Technical Lead"
     bio: "Soichi is senior software engineer and technical lead of the brainlife.io platform. His passion is to make supercomputers easier to use by researchers and scientists. He graduated with a B.S. in computer science and physics from Henderson State University and worked for Acxiom as a software engineer providing business intelligence and analytics solutions to various fortune 500 companies such as Discover, Citigroup, Dell/EMC. He joined Indiana University in 2008 to work for the Open Science Grid and joined the brainlife.io team in 2017. Soichi likes drawing portraits, playing guitar and cooking."
     url: "https://soichi.us"
@@ -105,6 +111,11 @@ collaborators:
     url: "https://scholar.google.com/citations?user=SeCtgPsAAAAJ&hl=en"
     avatar: "img/team/robertH.jpg"
 
+- name: "Ricardo Chavarriaga"
+    title: "Senior Researcher, Zurich University of Applied Sciences, Switzerland"
+    url: "https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en&oi=ao"
+    avatar: "img/team/RIcardoChavarriaga.jpg"
+    
 contributors:
   - name: "Josh Faskowitz"
     title: "Postdoctoral Fellow"
