@@ -116,6 +116,11 @@ collaborators:
     url: "https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en&oi=ao"
     avatar: "img/team/RIcardoChavarriaga.jpg"
     
+- name: "Damian Okaibedi Eke"
+    title: "Senior Research Fellow, Centre for Computing and Social Responsibility (CCSR), De Montfort University Leicester, UK"
+    url: "https://scholar.google.com/citations?user=exZaJccAAAAJ&hl=en&oi=ao"
+    avatar: "img/team/DamianEke.jpg"
+    
 contributors:
   - name: "Josh Faskowitz"
     title: "Postdoctoral Fellow"
