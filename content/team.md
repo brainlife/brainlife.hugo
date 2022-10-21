@@ -80,9 +80,9 @@ collaborators:
     url: "https://scholar.google.com/citations?user=x5NORzMAAAAJ&hl=en&oi=ao"
     avatar: "img/team/NathalieGeorge_1centr.jpg"
     
-   - name: "Damian Eke"
-    title: "Senior Fellow, School of Computer Science and Informatics, De Montfort University"
-    url: "https://www.dmu.ac.uk/about-dmu/academic-staff/technology/damian-okaibedi-eke/damian-okaibedi-eke.aspx"
+   - name: "Damian Okaibedi Eke"
+   title: "Senior Research Fellow, Centre for Computing and Social Responsibility (CCSR), De Montfort University Leicester, UK"
+    url: "https://scholar.google.com/citations?user=exZaJccAAAAJ&hl=en&oi=ao"
     avatar: "img/team/EkeDamian.jpg"
     
    - name: "Stephanie Heyman"
@@ -92,8 +92,8 @@ collaborators:
 
   - name: "Ricardo Chavarriaga"
     title: "Head, Confederation of Laboratories for Artificial Intelligence in Europe (CLAIRE), Zürich Office"
-    url: "https://rchavarriaga.github.io/"
-    avatar: "img/team/ChavarriagaRicardo.jpg"
+    url: "https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en&oi=ao"
+    avatar: "img/team/RIcardoChavarriaga.jpg"
 
    - name: "Michael Hanke"
     title: "Group Lead Forschungszentrum Jülich"
@@ -119,16 +119,6 @@ collaborators:
     title: "Director of Science Community Tools at Research Technologies, Indiana University"
     url: "https://scholar.google.com/citations?user=SeCtgPsAAAAJ&hl=en"
     avatar: "img/team/robertH.jpg"
-
-- name: "Ricardo Chavarriaga"
-    title: "Senior Researcher, Zurich University of Applied Sciences, Switzerland"
-    url: "https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en&oi=ao"
-    avatar: "img/team/RIcardoChavarriaga.jpg"
-    
-- name: "Damian Okaibedi Eke"
-    title: "Senior Research Fellow, Centre for Computing and Social Responsibility (CCSR), De Montfort University Leicester, UK"
-    url: "https://scholar.google.com/citations?user=exZaJccAAAAJ&hl=en&oi=ao"
-    avatar: "img/team/DamianEke.jpg"
     
 contributors:
   - name: "Josh Faskowitz"
