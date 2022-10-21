@@ -47,12 +47,6 @@ activeMembers:
     url: "[Google Scholar](https://scholar.google.com/citations?user=xqxSCSkAAAAJ)"
     avatar: "img/team/guio_meglab.png"
 
-  - name: "Sandra Hanekamp"
-    title: "Senior Researcher"
-    bio: "Sandra is the Outreach and Communication Manager for brainlife.io. She holds a B.A. in Neurolinguistics, an M.A. in Clinical Neuropsychology, and a Ph.D. in Cognitive and Perceptual Neuroscience from the University of Groningen. Before joining the brainlife.io team Sandra worked as Postdoctoral fellow at Harvard Medical School. Sandra likes spending time outdoors, water sports and biking."
-    url: "https://scholar.google.com/citations?user=HpFvfUsAAAAJ&hl=en&oi=ao"
-    avatar: "img/team/sandra.jpg"
-
   - name: "Dan Levitas"
     title: "Graduate Student"
     bio: "Dan is a Ph.D candidate at Indiana University. He is interested in using functional MRI methodologies to examine how visual salience can impact perception and decision making. Additionally, he is interested in open science and developing tools to increase transparency and reproducibility in the neuroimaging field."
@@ -68,7 +62,7 @@ activeMembers:
 collaborators:
   - name: "Aina Puce"
     title: "Eleanor Cox Riggs Professor, Indiana University, Psychological and Brain Sciences"
-    url: "https://example.com"
+    url: "https://psych.indiana.edu/directory/faculty/puce-aina.html"
     avatar: "img/team/PuceHelsinki_Feb2016_cropped.jpg"
 
   - name: "Sophia Vinci-Booher"
@@ -86,7 +80,22 @@ collaborators:
     url: "https://scholar.google.com/citations?user=x5NORzMAAAAJ&hl=en&oi=ao"
     avatar: "img/team/NathalieGeorge_1centr.jpg"
     
-  - name: "Michael Hanke"
+   - name: "Damian Eke"
+    title: "Senior Fellow, School of Computer Science and Informatics, De Montfort University"
+    url: "https://www.dmu.ac.uk/about-dmu/academic-staff/technology/damian-okaibedi-eke/damian-okaibedi-eke.aspx"
+    avatar: "img/team/EkeDamian.jpg"
+    
+   - name: "Stephanie Heyman"
+    title: "Independent Legal Manager & Advisor"
+    url: "https://shegel.be/"
+    avatar: "img/team/HeymanStephanie.jpg"
+
+  - name: "Ricardo Chavarriaga"
+    title: "Head, Confederation of Laboratories for Artificial Intelligence in Europe (CLAIRE), Zürich Office"
+    url: "https://rchavarriaga.github.io/"
+    avatar: "img/team/ChavarriagaRicardo.jpg"
+
+   - name: "Michael Hanke"
     title: "Group Lead Forschungszentrum Jülich"
     url: "https://scholar.google.com/citations?user=3tT7QQ8AAAAJ&hl=en"
     avatar: "img/team/michael.jpg"
@@ -143,6 +152,12 @@ contributors:
     avatar: "img/team/javier.png"
 
 alumni:
+
+ - name: "Sandra Hanekamp"
+    title: "Senior Researcher"
+    bio: "Sandra was the Outreach and Communication Manager for brainlife.io. Sandra transition to an industry position at Nordic NeuroLab after working with the brainlife.io team."
+    url: "https://scholar.google.com/citations?user=HpFvfUsAAAAJ&hl=en&oi=ao"
+    avatar: "img/team/sandra.jpg"
 
   - name: "Sophia Vinci-Booher"
     title: "Postdoctoral Researcher"
