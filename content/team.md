@@ -16,7 +16,7 @@ activeMembers:
     bio: "Kimberly is a Research Assistant Professor of Psychology at the University of Texas, Austin. Kim holds a PhD in Human NeuroImaging from the University of Texas Health Science Center in San Antonio. She is interested in using neuroimaging to understand the functional organization of human brain networks in healthy and diseased populations. Prior to joining the brainlife.io team, Kim completed postdocs at UC Davis and UT Austin examining functional deficits associated with mental health."
     url: "https://scholar.google.com/citations?user=Qt6OuAkAAAAJ&hl=en"
     avatar: "img/team/KimRay.jpg"
-    
+
   - name: "Soichi Hayashi"
     title: "Technical Lead"
     bio: "Soichi is senior software engineer and technical lead of the brainlife.io platform. His passion is to make supercomputers easier to use by researchers and scientists. He graduated with a B.S. in computer science and physics from Henderson State University and worked for Acxiom as a software engineer providing business intelligence and analytics solutions to various fortune 500 companies such as Discover, Citigroup, Dell/EMC. He joined Indiana University in 2008 to work for the Open Science Grid and joined the brainlife.io team in 2017. Soichi likes drawing portraits, playing guitar and cooking."
@@ -69,7 +69,7 @@ collaborators:
     title: "Assistant Professor of Psychology and Human Development at the Peabody College of Education and Human Development, Vanderbilt University"
     url: "https://scholar.google.com/citations?user=xNYnb6wAAAAJ&hl=en"
     avatar: "img/team/sophia_cropped_750x750.jpg"
- 
+
   - name: "Maximilien Chaumon"
     title: "Research Associate, Institut du Cerveau et de la Moelle épinière (ICM), Sorbone University"
     url: "https://scholar.google.com/citations?user=C81NXEkAAAAJ&hl=en"
@@ -79,12 +79,12 @@ collaborators:
     title: "Directrice Scientifique du Centre MEG-EEG, Institut du Cerveau et de la Moelle Epiniere (ICM), Sorbonne Université"
     url: "https://scholar.google.com/citations?user=x5NORzMAAAAJ&hl=en&oi=ao"
     avatar: "img/team/NathalieGeorge_1centr.jpg"
-    
+
   - name: "Damian Okaibedi Eke"
-   title: "Senior Research Fellow, Centre for Computing and Social Responsibility (CCSR), De Montfort University Leicester, UK"
+    title: "Senior Research Fellow, Centre for Computing and Social Responsibility (CCSR), De Montfort University Leicester, UK"
     url: "https://scholar.google.com/citations?user=exZaJccAAAAJ&hl=en&oi=ao"
     avatar: "img/team/EkeDamian.jpg"
-    
+
   - name: "Stephanie Heyman"
     title: "Independent Legal Manager & Advisor"
     url: "https://shegel.be/"
@@ -119,7 +119,7 @@ collaborators:
     title: "Director of Science Community Tools at Research Technologies, Indiana University"
     url: "https://scholar.google.com/citations?user=SeCtgPsAAAAJ&hl=en"
     avatar: "img/team/robertH.jpg"
-    
+
 contributors:
   - name: "Josh Faskowitz"
     title: "Postdoctoral Fellow"
