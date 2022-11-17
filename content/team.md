@@ -17,7 +17,7 @@ activeMembers:
     url: "https://scholar.google.com/citations?user=Qt6OuAkAAAAJ&hl=en"
     avatar: "img/team/KimRay.jpg"
     
-    - name: "Soichi Hayashi"
+  - name: "Soichi Hayashi"
     title: "Technical Lead"
     bio: "Soichi is senior software engineer and technical lead of the brainlife.io platform. His passion is to make supercomputers easier to use by researchers and scientists. He graduated with a B.S. in computer science and physics from Henderson State University and worked for Acxiom as a software engineer providing business intelligence and analytics solutions to various fortune 500 companies such as Discover, Citigroup, Dell/EMC. He joined Indiana University in 2008 to work for the Open Science Grid and joined the brainlife.io team in 2017. Soichi likes drawing portraits, playing guitar and cooking."
     url: "https://soichi.us"
@@ -80,12 +80,12 @@ collaborators:
     url: "https://scholar.google.com/citations?user=x5NORzMAAAAJ&hl=en&oi=ao"
     avatar: "img/team/NathalieGeorge_1centr.jpg"
     
-   - name: "Damian Okaibedi Eke"
+  - name: "Damian Okaibedi Eke"
    title: "Senior Research Fellow, Centre for Computing and Social Responsibility (CCSR), De Montfort University Leicester, UK"
     url: "https://scholar.google.com/citations?user=exZaJccAAAAJ&hl=en&oi=ao"
     avatar: "img/team/EkeDamian.jpg"
     
-   - name: "Stephanie Heyman"
+  - name: "Stephanie Heyman"
     title: "Independent Legal Manager & Advisor"
     url: "https://shegel.be/"
     avatar: "img/team/HeymanStephanie.jpg"
@@ -95,7 +95,7 @@ collaborators:
     url: "https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en&oi=ao"
     avatar: "img/team/RIcardoChavarriaga.jpg"
 
-   - name: "Michael Hanke"
+  - name: "Michael Hanke"
     title: "Group Lead Forschungszentrum Jülich"
     url: "https://scholar.google.com/citations?user=3tT7QQ8AAAAJ&hl=en"
     avatar: "img/team/michael.jpg"
@@ -143,7 +143,7 @@ contributors:
 
 alumni:
 
- - name: "Sandra Hanekamp"
+  - name: "Sandra Hanekamp"
     title: "Senior Researcher"
     bio: "Sandra was the Outreach and Communication Manager for brainlife.io. Sandra transition to an industry position at Nordic NeuroLab after working with the brainlife.io team."
     url: "https://scholar.google.com/citations?user=HpFvfUsAAAAJ&hl=en&oi=ao"
