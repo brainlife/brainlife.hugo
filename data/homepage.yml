@@ -1,4 +1,6 @@
-# showcase
+head:
+  title: brainlife
+
 showcase:
   enable: true
   title: "brainlife.io"
