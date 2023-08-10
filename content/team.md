@@ -17,12 +17,6 @@ activeMembers:
     url: "https://scholar.google.com/citations?user=Qt6OuAkAAAAJ&hl=en"
     avatar: "img/team/KimRay.jpg"
 
-  - name: "Soichi Hayashi"
-    title: "Technical Lead"
-    bio: "Soichi is senior software engineer and technical lead of the brainlife.io platform. His passion is to make supercomputers easier to use by researchers and scientists. He graduated with a B.S. in computer science and physics from Henderson State University and worked for Acxiom as a software engineer providing business intelligence and analytics solutions to various fortune 500 companies such as Discover, Citigroup, Dell/EMC. He joined Indiana University in 2008 to work for the Open Science Grid and joined the brainlife.io team in 2017. Soichi likes drawing portraits, playing guitar and cooking."
-    url: "https://soichi.us"
-    avatar: "img/team/soichi.jpg"
-
   - name: "Anibal Solon Heinsfeld"
     title: "Technical Lead"
     bio: "Anibal is graduate research assistant working on machine learning methods applied to neuroscience data. He joined the University of Texas at Austin in 2019 and the brainlife.io team in 2021. Anibal is currently developing methods to improve the accuracy with which we can map brain networks. Anibal has contributed to several open-source projects, such as C-PAC (https://fcp-indi.github.io/), OpenNeuro (https://openneuro.org/), and BrainBox (https://brainbox.pasteur.fr/)."
@@ -34,12 +28,6 @@ activeMembers:
     bio: "Brad holds a Ph.D. in Vision Science and Neuroscience from Indiana University. His research focusses on the integration of neuroimaging data modalities and machine learning to understand concussion and human vision. Brad has used Brainlife to publish multiple datasets and has developed several data preprocessing Apps. Brad has also written tutorials that introduce how to use Brainlife and core Python Notebooks templates that demonstrate how to apply statistical methods data preprocessed on brainlife. Brad is passionate about science, sports, and civil rights."
     url: "https://scholar.google.com/citations?user=fU9K6GgAAAAJ&hl=en"
     avatar: "img/team/brad.png"
-
-  - name: "Giulia Bertò"
-    title: "Data and Application Engineer"
-    bio: "Giulia holds a Ph.D. from the University of Trento. Her work focuses on the application of machine learning methods to Neuroscience data and concussion research. She is devoted to Open Science and contributes to brainlife.io by developing Apps for neuroimaging data analysis and machine learning. Giulia enjoys the mountains, hiking, traveling, and cooking."
-    url: "https://scholar.google.com/citations?user=T2CydDUAAAAJ&hl=en"
-    avatar: "img/team/giulia3.png"
 
   - name: "Guiomar Niso"
     title: "Senior Researcher"
@@ -54,8 +42,8 @@ activeMembers:
     avatar: "img/team/DanLevitas.png"
 
   - name: "Dheeraj Bhatia"
-    title: "Undergraduate Student"
-    bio: "Dheeraj is an Undergraduate student at the University at Buffalo. He has been working with brainlife.io since 2020 working with the Microsoft Academic Graph, Azure Cloud and to help improving the user interface. Along with a passion for programming Dheeraj has experience with social media marketing and traffic acquisition. He is interested in open source code and neuroscience research."
+    title: "Software Engineer"
+    bio: "Dheeraj initially came on board as an Undergraduate Research Assistant and has since transitioned to a full-time role in the lab. Since 2020, he has been an integral part of the brainlife.io team, leveraging the Microsoft Academic Graph, Azure Cloud, and contributing significantly to enhancing the user interface experience"
     url: "https://www.linkedin.com/in/devdheerajbhatia/"
     avatar: "img/team/dheerajbhatia.jpeg"
 
@@ -143,21 +131,35 @@ contributors:
 
 alumni:
 
+  - name: "Soichi Hayashi"
+    title: "Technical Lead"
+    bio: "Soichi was the senior software engineer and technical lead of the brainlife.io platform. His passion is to make supercomputers easier to use by researchers and scientists. He graduated with a B.S. in computer science and physics from Henderson State University and worked for Acxiom as a software engineer providing business intelligence and analytics solutions to various fortune 500 companies such as Discover, Citigroup, Dell/EMC. He joined Indiana University in 2008 to work for the Open Science Grid and joined the brainlife.io team in 2017.
+    Soichi is currently a Software Engineer at Acadian Asset Management
+    Soichi likes drawing portraits, playing guitar and cooking."
+    url: "https://soichi.us"
+    avatar: "img/team/soichi.jpg"
+
+  - name: "Giulia Bertò"
+    title: "Data and Application Engineer"
+    bio: "Giulia was a Postdoctoral Fellow under the guidance of Franco and holds a Ph.D. from the University of Trento. Her work focuses on the application of machine learning methods to Neuroscience data and concussion research. She is devoted to Open Science and has contributed to brainlife.io by developing Apps for neuroimaging data analysis and machine learning. Giulia enjoys the mountains, hiking, traveling, and cooking."
+    url: "https://scholar.google.com/citations?user=T2CydDUAAAAJ&hl=en"
+    avatar: "img/team/giulia3.png"
+
   - name: "Sandra Hanekamp"
     title: "Senior Researcher"
-    bio: "Sandra was the Outreach and Communication Manager for brainlife.io. Sandra transition to an industry position at Nordic NeuroLab after working with the brainlife.io team."
+    bio: "Sandra was the Outreach and Communication Manager for brainlife.io. Sandra transitioned to an industry position at Nordic NeuroLab after working with the brainlife.io team."
     url: "https://scholar.google.com/citations?user=HpFvfUsAAAAJ&hl=en&oi=ao"
     avatar: "img/team/sandra.jpg"
 
   - name: "Sophia Vinci-Booher"
     title: "Postdoctoral Researcher"
-    bio: "Sophia was NSF SBE Postdoctoral Fellow working under the supervision of Franco. Sophia used brainlife.io to map white-matter microstruture to understand human development and learning. After working with the brainlife.io, Sophia took on a position of Assistant Professor of Psychology and Human Development at the Peabody College of Education and Human Development, Vanderbilt University."
+    bio: "Sophia was a NSF SBE Postdoctoral Fellow working under the supervision of Franco. Sophia used brainlife.io to map white-matter microstruture to understand human development and learning. After working with the brainlife.io, Sophia took on a position of Assistant Professor of Psychology and Human Development at the Peabody College of Education and Human Development, Vanderbilt University."
     url: "https://scholar.google.com/citations?user=xNYnb6wAAAAJ&hl=en"
     avatar: "img/team/sophia_cropped_750x750.jpg"
 
   - name: "Brent C. McPherson"
     title: "Graduate Student"
-    bio: "Brent was graduate student at Indiana University under the supervision of Franco Pestilli. After graduating his PhD Brent started as Postdoctoral Fellow at mcGill University in Montreal under the supervision of Prf. J-B. Poline. His research focussed on methods for big data neuroscience and machine learning. Brent developed several brainlife.io Apps that allow users to process raw diffusion-weighted magnetic resonance imaging, perform advanced brain tractography, and build structural brain networks. Brent loves snakes and enjoys listening to heavy metal music."
+    bio: "Brent was a graduate student at Indiana University under the supervision of Franco Pestilli. After graduating with his PhD, Brent started as Postdoctoral Fellow at mcGill University in Montreal under the supervision of Prf. J-B. Poline. His research focussed on methods for big data neuroscience and machine learning. Brent developed several brainlife.io Apps that allow users to process raw diffusion-weighted magnetic resonance imaging, perform advanced brain tractography, and build structural brain networks. Brent loves snakes and enjoys listening to heavy metal music."
     url: "https://scholar.google.com/citations?user=UTKS08kAAAAJ&hl=en&oi=sra"
     avatar: "img/team/brent.jpg"
 
