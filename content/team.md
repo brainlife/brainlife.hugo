@@ -43,9 +43,15 @@ activeMembers:
 
   - name: "Dheeraj Bhatia"
     title: "Software Engineer"
-    bio: "Dheeraj initially came on board as an Undergraduate Research Assistant and has since transitioned to a full-time role in the lab. Since 2020, he has been an integral part of the brainlife.io team, leveraging the Microsoft Academic Graph, Azure Cloud, and contributing significantly to enhancing the user interface experience"
+    bio: "Dheeraj initially came on board as an Undergraduate Research Assistant and has since transitioned to a full-time role in the lab. Since 2020, he has been an integral part of the brainlife.io team, leveraging the Microsoft Academic Graph, Azure Cloud, and contributing significantly to enhancing the user interface experience."
     url: "https://www.linkedin.com/in/devdheerajbhatia/"
     avatar: "img/team/dheerajbhatia.jpeg"
+
+  - name: "Nicholas Lee"
+    title: "Software Engineer"
+    bio: "Nicholas is passionate about mapping out optimal workflows in order to create intuitive experiences using the latest web frameworks and libraries. He joined brainlife in 2023, and has since been working on developing new features for the platform and and refining the user experience. Outside of work Nick enjoys biking, soccer, and volleyball."
+    url: "https://www.linkedin.com/in/n-a-lee/"
+    avatar: "img/team/nick_lee.jpg"
 
 collaborators:
   - name: "Aina Puce"
