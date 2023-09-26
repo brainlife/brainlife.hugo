@@ -49,7 +49,7 @@ activeMembers:
 
   - name: "Nicholas Lee"
     title: "Software Engineer"
-    bio: "Nicholas is passionate about mapping out optimal workflows in order to create intuitive experiences using the latest web frameworks and libraries. He joined brainlife in 2023, and has since been working on developing new features for the platform, improving code quality, and refining the user experience. Outside of work Nick enjoys biking, soccer, and volleyball."
+    bio: "Nicholas is passionate about mapping out optimal workflows in order to create intuitive experiences using the latest web frameworks and libraries. He joined brainlife in 2023, and has since been working on developing new features for the platform and and refining the user experience. Outside of work Nick enjoys biking, soccer, and volleyball."
     url: "https://www.linkedin.com/in/n-a-lee/"
     avatar: "img/team/nick_lee.jpg"
 
