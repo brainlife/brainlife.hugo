@@ -5,7 +5,7 @@ showcase:
   enable: true
   title: "brainlife.io"
   subtitle: "Free and secure reproducible neuroscience analysis platform."
-  description: "Analyze your data on brainlife.io by either uploading or importing it from public archives. Over 400+ pre-processing Apps are available to build your custom workflows. Thousands of jobs can be submitted using shared clusters or on your own computer. Perform group-level statistical analysis or apply machine learning methods using Jupyter notebooks . Publish your full workflow from raw data to published figures in an integrated bundle with a single DOI"
+  description: "Analyze your data on brainlife.io by either uploading or importing it from public archives. Over 400+ pre-processing Apps are available to build your custom workflows. Thousands of jobs can be submitted using shared clusters or on your own computer. Perform group-level statistical analysis or apply machine learning methods using Jupyter notebooks. Publish your full workflow from raw data to published figures in an integrated bundle with a single DOI."
 
   image: "img/showcase/title.jpg"
   imageMobile: "img/showcase/title.jpg"
@@ -50,7 +50,7 @@ about:
   enable: true
   title: "Developed for Neuroscientists"
   content: '
-    Brainlife is a community-oriented project led by the Pestilli Lab at UT-Austin, and contributed by over ten additional research groups and institutions. The platform is designed and constantly improved by a community of developers and researchers for the benefit of other neuroscientists. Over 400 data processing Apps have been developed by researchers from around the world.
+    Brainlife is a community-oriented project led by the Pestilli Lab at UT-Austin, and contributed to by over ten additional research groups and institutions. The platform is designed and constantly improved by a community of developers and researchers for the benefit of other neuroscientists. Over 400 data processing Apps have been developed by researchers from around the world.
     '
   button:
     icon: "icon-smile-fill"
@@ -77,7 +77,7 @@ education:
 experience:
   enable: true
   title: "A turnkey analysis platform"
-  description: "Brainlife is a turnkey software-as-a-service (Saas) solution. It is not software that users must download, install and operate at their institution. By simply signing up,  you will have immediate access to our large storage systems, and many major HPC resources."
+  description: "Brainlife is a turnkey software-as-a-service (SaaS) solution. It is not software that users must download, install, and operate at their institution. By simply signing up,  you will have immediate access to our large storage systems, and many major HPC resources."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Github"
@@ -89,24 +89,24 @@ experience:
 
   items:
     - title: "Apps"
-      content: "Share your analyses by registering a GitHub repository as an <b>App</b>. Apps can be publicly shared and executed on the several cloud computing platforms."
+      content: "Share your analyses by registering a GitHub repository as an <b>App</b>. Apps can be publicly shared and executed on several cloud computing platforms."
       image: "img/saas/apps.png"
       url: "/docs/user/process"
 
     - title: "Data"
-      content: "Share your neuroimaging data publicly or privately. Data on brainlife.io is organized as <b>Datatypes</b> to allow interoperability between Apps."
+      content: "Share your neuroimaging data publicly or privately. Data on brainlife.io is organized by <b>Datatype</b> to allow interoperability between Apps."
       image: "img/saas/datasets.png"
       url: "/docs/user/project/"
 
     - title: "Computing"
-      content: "Share your <b>Computing Resources</b> on brainlife.io to accelerate scientific discovery and increase resources utilization."
+      content: "Share your <b>Computing Resources</b> on brainlife.io to accelerate scientific discovery and increase resource utilization."
       image: "img/saas/resources.png"
       url: "/docs/resources/register/"
 
 # sponsors and features
 client_and_work:
   title: "Sponsors"
-  content: "Brainlife is publicly funded by the NFS, DoD, Kavli Foundation and NIH awards. The public-funding model allows us to collaborate with other publicly funded projects and support unique resources at no cost. Brainlife’s mission is to serve the neuroscience community, support scientific reproducibility, and accelerate discovery." 
+  content: "Brainlife is publicly funded by the NFS, DoD, Kavli Foundation, and NIH awards. The public-funding model allows us to collaborate with other publicly funded projects and support unique resources at no cost. Brainlife’s mission is to serve the neuroscience community, support scientific reproducibility, and accelerate discovery." 
   enable: true
 
   clients:
@@ -186,7 +186,7 @@ client_and_work:
       is_even: true
 
     - title: "Collaborate"
-      description: "You will be able to collaborate and analyze your data with other researchers from around the world. Over 2,000 users worldwide have benefitted from Brainlife."
+      description: "You will be able to collaborate and analyze your data with other researchers from around the world. Over 2,000 users worldwide have benefited from Brainlife."
       button:
         icon: "icon-arrow-right"
         btnText: "Users"
@@ -208,7 +208,7 @@ client_and_work:
       is_even: true
 
     - title: "Visualization"
-      description: "Variety of visualization tools can be launched directly from your web browser."
+      description: "A variety of visualization tools can be launched directly from your web browser."
       button:
         icon: "icon-arrow-right"
         btnText: "Visualization Tools"
