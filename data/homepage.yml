@@ -94,7 +94,7 @@ experience:
       url: "/docs/user/process"
 
     - title: "Data"
-      content: "Share your neuroimaging data publicly or privately. Data on brainlife.io is organized by <b>Datatype</b> to allow interoperability between Apps."
+      content: "Share your neuroimaging data publicly or privately. Data on brainlife.io is organized as <b>Datatypes</b> to allow interoperability between Apps."
       image: "img/saas/datasets.png"
       url: "/docs/user/project/"
 
