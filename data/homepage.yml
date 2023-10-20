@@ -4,8 +4,8 @@ head:
 showcase:
   enable: true
   title: "brainlife.io"
-  subtitle: "Free and secure reproducible neuroscience analysis platform."
-  description: "Analyze your data on brainlife.io by either uploading or importing it from public archives. Over 400+ pre-processing Apps are available to build your custom workflows. Thousands of jobs can be submitted using shared clusters or on your own computer. Perform group-level statistical analysis or apply machine learning methods using Jupyter notebooks. Publish your full workflow from raw data to published figures in an integrated bundle with a single DOI."
+  subtitle: "Open-source, free and secure reproducible neuroscience analysis platform."
+  description: "The platform allows to analyze Magnetic Resonance Imaging (MRI), electroencephalography (EEG) and magnetoencephalography (MEG) data. Data can either be uploaded from local computers or imported from public archives such as OpenNeuro.org. Over 400+ data processing Apps are available on brainlife.io to build custom data workflows. Thousands of jobs can be submitted using shared clusters or on users' compute resource. Users can perform group-level statistical analysis or apply machine learning methods using Jupyter notebooks. A single record containing the entire data workflow (from raw data to published figures) can be published addressed by with a unique digital object identifier (DOI)."
 
   image: "img/showcase/title.jpg"
   imageMobile: "img/showcase/title.jpg"
