@@ -100,8 +100,8 @@ collaborators:
     avatar: "img/team/paolo.jpg"
 
   - name: "Yaroslav O. Halchenko"
-    title: "Research Associate Professor Dartmouth College"
-    url: "https://scholar.google.com/citations?user=EbtfZcwAAAAJ&hl=en"
+    title: "Research Professor Dartmouth College"
+    url: "https://centerforopenneuroscience.org/"
     avatar: "img/team/yarik.jpg"
 
   - name: "Lei Wang"
