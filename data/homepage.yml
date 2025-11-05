@@ -111,6 +111,12 @@ client_and_work:
 
   clients:
     - logo:
+        x: "img/clients/ref.aws.png"
+        _2x: "img/clients/ref.aws.png"
+      alt: "Brainlife"
+      url: "https://brainlife.io"
+
+    - logo:
         x: "img/clients/ref.iu.png"
         _2x: "img/clients/ref.iu.png"
         #_2x: "img/clients/asgardia@2x.png"
@@ -174,8 +180,8 @@ client_and_work:
       url: "https://www.tacc.utexas.edu/"
 
   works:
-    - title: "Large storage and computing resources"
-      description: "Brainlife provides millions of free computing hours supported by NSF and donated cycles to researchers and students. Brainlife also provides secure cloud storage for raw data as well as data derivatives. "
+    - title: "Supercomputing resources"
+      description: "Brainlife provides millions of free computing hours supported by NSF and donated cycles to researchers and students."
       button:
         icon: "icon-arrow-right"
         btnText: "Resources"
@@ -183,6 +189,18 @@ client_and_work:
       image:
         x: "img/stampede2.jpg"
         _2x: "img/stampede2.jpg"
+      is_even: true
+
+
+    - title: "Cloud Storage"
+      description: "Brainlife provides secure cloud storage of raw data as well as data derivatives supported by the AWS Open Data Program."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "AWS S3"
+        URL: "https://registry.opendata.aws/apex/"
+      image:
+        x: "img/2x_aws.png"
+        _2x: "img/2x_aws.png"
       is_even: true
 
     - title: "Collaborate"
