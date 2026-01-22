@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {{ partial "head.html" . }}
+    {{ partial "head_custom.html" . }}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body class="bl-mobile-page">
+    {{ partial "header.html" . }}
+
+    <!-- Hero Section -->
+    <section class="bl-hero">
+        <div class="bl-hero-container">
+            <div class="bl-hero-left">
+                <h1>{{ .Params.hero.title }}</h1>
+                <p>{{ .Params.hero.subtitle }}</p>
+                <div class="app-buttons">
+                    <a href="#" class="store-btn">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+                            alt="Get it on Google Play">
+                    </a>
+                    <a href="#" class="store-btn">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg"
+                            alt="Download on the App Store">
+                    </a>
+                </div>
+            </div>
+            <div class="bl-hero-right">
+                <img src="{{ .Site.BaseURL }}img/brainlifemobile/hero_phone.png" alt="Brainlife Mobile App"
+                    class="hero-phone-image">
+            </div>
+        </div>
+
+        <!-- Feature Cards -->
+        <div class="hero-features">
+            <div class="feature-card">
+                <div class="feature-icon">
+                    <i class="fas fa-chart-line"></i>
+                </div>
+                <h3>Real-time Metrics</h3>
+                <p>Monitor research progress instantly.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">
+                    <i class="fas fa-lock"></i>
+                </div>
+                <h3>Secure Data</h3>
+                <p>Access your lab securely anywhere.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">
+                    <i class="fas fa-bell"></i>
+                </div>
+                <h3>Mobile Alerts</h3>
+                <p>Get notifications for critical updates.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">
+                    <i class="fas fa-bolt"></i>
+                </div>
+                <h3>Fast Processing</h3>
+                <p>Empower neuroimaging on-the-go.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Homepage Section -->
+    <section class="bl-feature-section">
+        <div class="feature-content">
+            <h2>{{ .Params.homepage.title }}</h2>
+            <p>{{ .Params.homepage.description }}</p>
+        </div>
+        <div class="feature-image-single">
+            <img src="{{ .Params.homepage.image | relURL }}" alt="Homepage" class="homepage-image">
+        </div>
+    </section>
+
+    <!-- Notifications Section -->
+    <section class="bl-feature-section alt notification-section">
+        <div class="feature-content">
+            <h2>{{ .Params.notifications.title }}</h2>
+            <p>{{ .Params.notifications.description }}</p>
+        </div>
+        <div class="notification-grid">
+            <div class="notification-image-container">
+                <img src="{{ index .Params.notifications.images 0 | relURL }}" alt="Notification"
+                    class="notification-image">
+            </div>
+            <div class="notification-card">
+                <div class="notification-card-icon">
+                    <i class="fas fa-bell"></i>
+                </div>
+                <h3>{{ .Params.notifications.card_title }}</h3>
+                <p>{{ .Params.notifications.card_description }}</p>
+                <ul class="notification-features">
+                    {{ range .Params.notifications.features }}
+                    <li>
+                        <i class="fas fa-check-circle"></i>
+                        <span>{{ . }}</span>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="bl-feature-section">
+        <div class="feature-content">
+            <h2>{{ .Params.projects.title }}</h2>
+            <p>{{ .Params.projects.description }}</p>
+        </div>
+        <div class="feature-images">
+            {{ range .Params.projects.images }}
+            <div class="phone-mockup">
+                <img src="{{ . | relURL }}" alt="Project">
+            </div>
+            {{ end }}
+        </div>
+    </section>
+
+    <!-- How it Works -->
+    <section class="bl-how-it-works">
+        <h2>{{ .Params.how_it_works.title }}</h2>
+        <p style="margin-bottom: 50px;">{{ .Params.how_it_works.subtitle }}</p>
+
+        <div class="steps-container">
+            {{ range .Params.how_it_works.steps }}
+            <div class="step-item">
+                <div class="step-icon">
+                    <i class="fas {{ .icon }}"></i>
+                </div>
+                <div class="step-content">
+                    <h3>{{ .title }}</h3>
+                    <p>{{ .description }}</p>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="bl-faq">
+        <h2>{{ .Params.faq.title }}</h2>
+
+        {{ range .Params.faq.items }}
+        <div class="faq-item">
+            <div class="faq-question" onclick="toggleFaq(this)">
+                {{ .question }}
+            </div>
+            <div class="faq-answer">
+                {{ .answer }}
+            </div>
+        </div>
+        {{ end }}
+    </section>
+
+    <!-- Footer CTA -->
+    <section class="bl-footer-cta">
+        <p>{{ .Params.cta.title }}</p>
+        <h2>{{ .Params.cta.subtitle }}</h2>
+        <p style="margin-bottom: 30px;">{{ .Params.cta.text }}</p>
+
+        <div class="app-buttons">
+            <a href="#" class="store-btn">
+                <i class="fab fa-apple fa-2x"></i>
+                <div>
+                    <small>Download on the</small><br>
+                    <strong>App Store</strong>
+                </div>
+            </a>
+            <a href="#" class="store-btn">
+                <i class="fab fa-google-play fa-2x"></i>
+                <div>
+                    <small>GET IT ON</small><br>
+                    <strong>Google Play</strong>
+                </div>
+            </a>
+        </div>
+    </section>
+
+    {{ partial "footer.html" . }}
+    {{ partial "base-foot.html" . }}
+
+    <script>
+        function toggleFaq(element) {
+            const faqItem = element.parentElement;
+            const answer = element.nextElementSibling;
+            const isVisible = answer.style.display === 'block';
+
+            // Close all others
+            document.querySelectorAll('.faq-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            document.querySelectorAll('.faq-answer').forEach(a => a.style.display = 'none');
+
+            // Toggle current
+            if (!isVisible) {
+                faqItem.classList.add('active');
+                answer.style.display = 'block';
+            }
+        }
+    </script>
+</body>
+
+</html>

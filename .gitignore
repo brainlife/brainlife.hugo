@@ -1,1 +1,15 @@
-public
+
+# Hugo output
+/public
+/public/
+
+# macOS
+.DS_Store
+
+# Hugo build lock
+.hugo_build.lock
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
