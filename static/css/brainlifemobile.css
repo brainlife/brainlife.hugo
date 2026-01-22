@@ -110,6 +110,7 @@
     display: flex;
     gap: 16px;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .store-btn {
@@ -690,10 +691,6 @@
         max-width: 100%;
     }
 
-    .app-buttons {
-        justify-content: center;
-    }
-
     .hero-features {
         grid-template-columns: repeat(2, 1fr);
         gap: 20px;
@@ -754,12 +751,6 @@
 
     .step-item:hover {
         transform: translateX(0);
-    }
-
-    .app-buttons {
-        flex-direction: column;
-        gap: 15px;
-        align-items: center;
     }
 
     .store-btn img {
