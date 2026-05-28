@@ -25,9 +25,9 @@ activeMembers:
 
   - name: "Taylor Grafft"
     title: "Software Engineer"
-    bio: "Taylor joined the brainlife.io team in December 2024. He has a Computer Science degree from Auburn Univeresity. He is primarily focused on infrastructure and cloud integration. Taylor's hobbies include watching/playing sports and volunteering"
+    bio: "Taylor joined the brainlife.io team in December 2024. He has a Computer Science degree from Auburn University and primarily focuses on infrastructure and cloud integration. Taylor’s hobbies include watching and playing sports, as well as volunteering."
     url: "https://www.linkedin.com/in/taylorgrafft"
-    avatar: "img/team/taylor_grafft.jpg" 
+    avatar: "img/team/taylor_grafft.jpg"
 
   - name: "Nicholas Lee"
     title: "Software Engineer"
@@ -181,7 +181,7 @@ alumni:
 
   - name: "Aurore Bussalb"
     title: "Postdoctoral Research / Research Engineer, Institut du Cerveau et de la Moelle épinière (ICM), Sorbone University"
-    bio: "Aurora was Postdoctoral Fellow and Research Engineer supported by a NIH NIBIB CRCNS collabroative award. After leaving brainlife.io Aurore took a position as software engineer at BioSerenity, a Franch startup in Paris."
+    bio: "Aurora was Postdoctoral Fellow and Research Engineer supported by a NIH NIBIB CRCNS collabroative award. After leaving brainlife.io Aurore took a position as software engineer at BioSerenity, a French startup in Paris."
     url: "https://www.linkedin.com/in/aurore-bussalb-170305b1/"
     avatar: "img/team/Aurore_Bussalb.jpeg"
 
