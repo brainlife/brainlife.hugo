@@ -23,35 +23,23 @@ activeMembers:
     url: "https://scholar.google.com/citations?user=gQdfws4AAAAJ&hl=en&oi=ao"
     avatar: "img/team/anibalsolon.jpg"
 
-  - name: "Bradley Caron"
-    title: "Data Scientist"
-    bio: "Brad holds a Ph.D. in Vision Science and Neuroscience from Indiana University. His research focusses on the integration of neuroimaging data modalities and machine learning to understand concussion and human vision. Brad has used Brainlife to publish multiple datasets and has developed several data preprocessing Apps. Brad has also written tutorials that introduce how to use Brainlife and core Python Notebooks templates that demonstrate how to apply statistical methods data preprocessed on brainlife. Brad is passionate about science, sports, and civil rights."
-    url: "https://scholar.google.com/citations?user=fU9K6GgAAAAJ&hl=en"
-    avatar: "img/team/brad.png"
-
-  - name: "Guiomar Niso"
-    title: "Senior Researcher"
-    bio: "Guio holds a PhD in Biomedical Engineering at the Universidad Politécnica de Madrid and has been a Postdoctoral Researcher both at the Montreal Neurological Institute, McGill University and Indiana University. Guio uses neuroimaging to study healthy and diseased brain states. Guio is interested in understanding brain dynamics and its underlying mechanisms using electrophysiology. Guio contributes to multiple open science initiatives, for example the Open MEG Archive (OMEGA), open software platform such as brainlife.io, Brainstorm, and Hermes and open data standards such us the Brain Imaging Data Structure (BIDS)."
-    url: "[Google Scholar](https://scholar.google.com/citations?user=xqxSCSkAAAAJ)"
-    avatar: "img/team/guio_meglab.png"
-
-  - name: "Dan Levitas"
-    title: "Graduate Student"
-    bio: "Dan is a Ph.D candidate at Indiana University. He is interested in using functional MRI methodologies to examine how visual salience can impact perception and decision making. Additionally, he is interested in open science and developing tools to increase transparency and reproducibility in the neuroimaging field."
-    url: "https://perceptionandneuroimaging.psych.indiana.edu/people/daniellevitas.html"
-    avatar: "img/team/DanLevitas.png"
-
-  - name: "Dheeraj Bhatia"
+  - name: "Taylor Grafft"
     title: "Software Engineer"
-    bio: "Dheeraj initially came on board as an Undergraduate Research Assistant and has since transitioned to a full-time role in the lab. Since 2020, he has been an integral part of the brainlife.io team, leveraging the Microsoft Academic Graph, Azure Cloud, and contributing significantly to enhancing the user interface experience."
-    url: "https://www.linkedin.com/in/devdheerajbhatia/"
-    avatar: "img/team/dheerajbhatia.jpeg"
+    bio: "Taylor joined the brainlife.io team in December 2024. He has a Computer Science degree from Auburn Univeresity. He is primarily focused on infrastructure and cloud integration. Taylor's hobbies include watching/playing sports and volunteering"
+    url: "https://www.linkedin.com/in/taylorgrafft"
+    avatar: "img/team/taylor_grafft.jpg" 
 
   - name: "Nicholas Lee"
     title: "Software Engineer"
     bio: "Nicholas is passionate about mapping out optimal workflows in order to create intuitive experiences using the latest web frameworks and libraries. He joined brainlife in 2023, and has since been working on developing new features for the platform and and refining the user experience. Outside of work Nick enjoys biking, soccer, and volleyball."
     url: "https://www.linkedin.com/in/n-a-lee/"
     avatar: "img/team/nick_lee.jpg"
+
+  - name: "Gabriele Amorosino"
+    title: "Postdoctoral Researcher"
+    bio: "Gabriele Amorosino holds a PhD in Cognitive and Brain Sciences from the University of Trento. He investigates how the structural organization of the brain constrains visual perception and behavior. Using brainlife.io, he examines how retinotopy, the spatial organization of visual representations across cortex, shapes long-range connectivity in the human brain."
+    url: "https://scholar.google.com/citations?user=oRFlrk0AAAAJ&hl=en&oi=ao"
+    avatar: "/img/team/gabriele.jpg"
 
 collaborators:
   - name: "Aina Puce"
@@ -115,6 +103,16 @@ collaborators:
     avatar: "img/team/robertH.jpg"
 
 contributors:
+  - name: "Junbeom Kwon"
+    title: "Graduate Student"
+    url: "https://github.com/xxxx"
+    avatar: "/img/team/junbeom_kwon.jpg"
+
+  - name: "Stephen Kiilu"
+    title: "Graduate Student"
+    url: "https://www.linkedin.com/in/stephen-kiilu-401000118/"
+    avatar: "/img/team/stephen_kiilu"
+
   - name: "Josh Faskowitz"
     title: "Postdoctoral Fellow"
     url: "https://scholar.google.com/citations?user=GE4rM3QAAAAJ&hl=en"
@@ -144,6 +142,12 @@ alumni:
     Soichi likes drawing portraits, playing guitar and cooking."
     url: "https://soichi.us"
     avatar: "img/team/soichi.jpg"
+
+  - name: Melanie Collier
+    title: "Lab Manager"
+    avatar: "/img/team/mel_collier.jpeg"
+    url: "https://scholar.google.com/citations?user=IomAkw8AAAAJ&hl=en"
+    bio: "Melanie joined the Pestilli Lab as the Lab Manager in 2024 with a background in cognitive and behavioral neuroscience. After working with the brainlife.io team, Melanie became a graduate student at the University of California, Los Angeles."
 
   - name: "Giulia Bertò"
     title: "Data and Application Engineer"
@@ -240,6 +244,30 @@ alumni:
     bio: "Steven joined brainlife.io as a high school student and contributed to the development of the brainlife.io platform functionality. After working with the brainlife.io team, Steve took at position as Software Engineer at PSI Services."
     url: "https://www.linkedin.com/in/sporiley/"
     avatar: "img/team/steven340.jpg"
+
+  - name: "Bradley Caron"
+    title: "Data Scientist"
+    bio: "Brad holds a Ph.D. in Vision Science and Neuroscience from Indiana University. His research focusses on the integration of neuroimaging data modalities and machine learning to understand concussion and human vision. Brad has used Brainlife to publish multiple datasets and has developed several data preprocessing Apps. Brad has also written tutorials that introduce how to use Brainlife and core Python Notebooks templates that demonstrate how to apply statistical methods data preprocessed on brainlife. Brad is passionate about science, sports, and civil rights."
+    url: "https://scholar.google.com/citations?user=fU9K6GgAAAAJ&hl=en"
+    avatar: "img/team/brad.png"
+
+  - name: "Guiomar Niso"
+    title: "Senior Researcher"
+    bio: "Guio holds a PhD in Biomedical Engineering at the Universidad Politécnica de Madrid and has been a Postdoctoral Researcher both at the Montreal Neurological Institute, McGill University and Indiana University. Guio uses neuroimaging to study healthy and diseased brain states. Guio is interested in understanding brain dynamics and its underlying mechanisms using electrophysiology. Guio contributes to multiple open science initiatives, for example the Open MEG Archive (OMEGA), open software platform such as brainlife.io, Brainstorm, and Hermes and open data standards such us the Brain Imaging Data Structure (BIDS)."
+    url: "[Google Scholar](https://scholar.google.com/citations?user=xqxSCSkAAAAJ)"
+    avatar: "img/team/guio_meglab.png"
+
+  - name: "Dan Levitas"
+    title: "Graduate Student"
+    bio: "Dan is a Ph.D candidate at Indiana University. He is interested in using functional MRI methodologies to examine how visual salience can impact perception and decision making. Additionally, he is interested in open science and developing tools to increase transparency and reproducibility in the neuroimaging field."
+    url: "https://perceptionandneuroimaging.psych.indiana.edu/people/daniellevitas.html"
+    avatar: "img/team/DanLevitas.png"
+
+  - name: "Dheeraj Bhatia"
+    title: "Software Engineer"
+    bio: "Dheeraj initially came on board as an Undergraduate Research Assistant and has since transitioned to a full-time role in the lab. Since 2020, he has been an integral part of the brainlife.io team, leveraging the Microsoft Academic Graph, Azure Cloud, and contributing significantly to enhancing the user interface experience."
+    url: "https://www.linkedin.com/in/devdheerajbhatia/"
+    avatar: "img/team/dheerajbhatia.jpeg"
 
 ---
 
