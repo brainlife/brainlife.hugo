@@ -111,7 +111,7 @@ contributors:
   - name: "Stephen Kiilu"
     title: "Graduate Student"
     url: "https://www.linkedin.com/in/stephen-kiilu-401000118/"
-    avatar: "/img/team/stephen_kiilu"
+    avatar: "/img/team/stephen_kiilu.jpg"
 
   - name: "Josh Faskowitz"
     title: "Postdoctoral Fellow"
