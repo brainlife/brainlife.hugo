@@ -42,6 +42,11 @@ activeMembers:
     avatar: "/img/team/gabriele.jpg"
 
 collaborators:
+  - name: "Franco Delogu"
+    title: "Professor of Psychology, Lawrence Technological University"
+    url: "https://www.linkedin.com/in/franco-delogu-18424b83"
+    avatar: "/img/team/franco_delogu.jpg"
+
   - name: "Aina Puce"
     title: "Eleanor Cox Riggs Professor, Indiana University, Psychological and Brain Sciences"
     url: "https://psych.indiana.edu/directory/faculty/puce-aina.html"
